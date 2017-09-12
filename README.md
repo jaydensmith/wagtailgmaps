@@ -1,3 +1,7 @@
+An updated version of [springload/wagtailgmaps](https://github.com/springload/wagtailgmaps). *No maintainence intended.*
+
+To install: `pip install -U git+https://github.com/danreeves/wagtailgmaps@3.0.1`
+
 wagtailgmaps
 ==================
 
