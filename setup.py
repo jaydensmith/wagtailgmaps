@@ -9,7 +9,7 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 
 setup(
     name='wagtailgmaps',
-    version='3.0.0',
+    version='3.0.2',
     packages=['wagtailgmaps'],
     include_package_data=True,
     license='BSD License',

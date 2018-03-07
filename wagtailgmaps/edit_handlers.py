@@ -3,7 +3,7 @@ import random
 from django.template.loader import render_to_string
 from django.utils.safestring import mark_safe
 from django.conf import settings
-from wagtail.wagtailadmin.edit_handlers import (
+from wagtail.admin.edit_handlers import (
     BaseCompositeEditHandler,
     FieldPanel,
     widget_with_script,
